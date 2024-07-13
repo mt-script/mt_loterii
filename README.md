@@ -1,7 +1,7 @@
 # Introduction
 MT_Loterii is a very useful and simple scritp that anyone can easily set up in the config.
 You need the QBCore Framework for the script to work.
-Supported framework is qb_core.
+Supported framework is [qb-core](https://github.com/qbcore-framework/qb-core).
 
 # Discord
 [My Discord Server](https://discord.gg/rcGVrczfNg)
