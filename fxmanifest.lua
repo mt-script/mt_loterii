@@ -9,7 +9,7 @@ shared_script 'config.lua'
 
 server_scripts {
     '@oxmysql/lib/MySQL.lua', -- Ensure you have the MySQL library if you need to use the database
-    'server/main.lua'
+    'server.lua'
 }
 
 client_scripts {
